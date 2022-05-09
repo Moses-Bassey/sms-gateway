@@ -1,4 +1,4 @@
-# TEST APIs
+# SMS GATEWAY APIs
 
 ## To start the server locally
 
